@@ -14,4 +14,4 @@ Crystal Journey, kullanıcıların basit kontrollerle keyifli bir oyun deneyimi 
 
 ![Ekran Görüntüsü 2](images/EkranGörüntüsü2.png)
 
-
+Denemek için link => https://metinmustafaaltintas.github.io/CrystalJourney_Oynanis/
