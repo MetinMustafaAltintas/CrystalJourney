@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spike
+  - Kristaller
+  - GriKutular
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - BackGround
+  - Yer
+  - Kristaller
+  - GriKutular
+  - DisariKatman
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 433861153
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Spikelar
+    uniqueID: 3535997059
+    locked: 0
+  - name: Astronotlar
+    uniqueID: 1137249135
+    locked: 0
+  - name: GriKutular
+    uniqueID: 3764383693
+    locked: 0
