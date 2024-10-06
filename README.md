@@ -11,9 +11,7 @@ Crystal Journey, kullanıcıların basit kontrollerle keyifli bir oyun deneyimi 
 ## Ekran Görüntüleri
 
 ![Ekran Görüntüsü 1](images/EkranGörüntüsü1.png)
-*Ekran Görüntüsü 1 Açıklaması*
 
 ![Ekran Görüntüsü 2](images/EkranGörüntüsü2.png)
-*Ekran Görüntüsü 2 Açıklaması*
 
 
